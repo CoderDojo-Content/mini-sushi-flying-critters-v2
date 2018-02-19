@@ -7,7 +7,13 @@
 ### Code to make the hippo fly
 * In the Sprites panel, click your sprite. Add the following scripts to your sprite:
 
-  This code makes the wings flap ![](ScratchBlocksA.png) These blocks make the hippo move around ![](ScratchBlocksB.png)
+  This code makes the wings flap 
+  
+  ![](ScratchBlocksA.png) 
+  
+  These blocks make the hippo move around 
+  
+  ![](ScratchBlocksB.png)
 
   Click on the green flag to see your animation! 
 
