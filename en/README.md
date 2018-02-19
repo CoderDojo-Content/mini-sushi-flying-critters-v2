@@ -26,5 +26,4 @@
 Top tip: you can **duplicate** a costume and change it a little bit to make the animation work. ![](CostumesDrawBees.png)
 
 
-{% callout %}<span style="color: #000000;">Why not turn your animation into a game? Visit <b>http://dojo.soy/minis-scratch-begin</b> to find out how in the Beginner Scratch Sushi Cards, and earn <br />yourself a digital badge too! To see this card online or print out more, go to <b>http://dojo.soy/minis-sushi-scratch</b> </span>
-{% endcallout %}
+Why not turn your animation into a game? Visit http://dojo.soy/sp-scratch-begin to find out how in the Beginner Scratch Sushi Cards, and earn yourself a digital badge too! To see this card online or print out more, go to http://dojo.soy/sp-sushi-scratch
