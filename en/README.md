@@ -1,11 +1,12 @@
 # Make some animated flying hippos! 
 
+### Get started
 * Open a new Scratch project. Click on the cat **sprite** and go to the **Costumes** tab. Click the first icon under **New costume** to choose a costume from the library.   
 
 * Find the *flying hippo*. There are two: select one of them and click **OK**. Then add another costume the same way, and select the other flying hippo. Delete the two cat costumes by clicking on the little **x**. ![](NewCostumesHippo.png)
 
 ### Code to make the hippo fly
-* In the **Sprites** panel, click your sprite. Add the following scripts to your sprite.
+* Go to the **Scripts** tab and add the following scripts to your sprite.
 
   This code makes the wings flap:
   
