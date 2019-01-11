@@ -1,18 +1,18 @@
 # Make some animated flying hippos! 
 
 ### Get started
-* Open a new Scratch project and delete the cat **sprite**. 
+* Open a new Scratch project and delete the cat **sprite** by clicking on the **x**.
 
 ![cat sprite icon with the cross highlighted](DeleteCat.png)
 
-* Click *Choose a sprite*, find the *flying hippo* and click **OK**.
+* Click on the icon to **Choose a Sprite**, find the hippo with wings, and click on **OK**.
 
 ![choose a new sprite menu highlighted](ChooseSprite.png)
 
-### Code to make the hippo fly
-* Go to the **Code** tab and add the following code to your sprite.
+### Make the hippo fly
+* Go to the **Code** tab and add the following code blocks to your sprite.
 
-  This code makes the wings flap:
+  These blocks makes the wings flap:
   
   ![scratch blocks](ScratchBlocksA.png) 
   
@@ -23,7 +23,7 @@
   Click on the green flag to see your animation! 
 
 ### Add a background
-* In the bottom right-hand corner, you'll see the **Stage**. Click the icon to **Choose a Backdrop** from the library. If you prefer, you can draw your own background by then selecting the **paintbrush** icon. 
+* In the bottom right-hand corner, you'll see the **Stage**. Click on the icon to **Choose a Backdrop** from the library. Or if you prefer, you can draw your own background by clicking on the **paintbrush** icon. 
 
   ![](NewBackdrop.png)
 
@@ -32,10 +32,12 @@
 
   ![](ScratchDuplicate.png)
 
-* Once you've duplicated the hippo, you can change the costumes on the new sprite if you want. Why not try drawing your own costumes? 
+* Once you've duplicated the hippo sprite, change the costumes of the new sprite. If you want you could even try drawing costumes of your own!
 
   ![](CostumesDrawBees.png)
 
-  Top tip: you can **duplicate** a costume too! This makes it easy to draw two that are nearly the same. 
+  Top tip: you can **duplicate** a costume too! Doing this makes it easy to create two costumes that are nearly the same. 
 
-Why not turn your animation into a game? Visit dojo.soy/sp-scratch-begin to find out how with the Beginner Scratch Sushi Cards, and earn yourself a digital badge too! To see this card online or print out more, go to dojo.soy/sp-sushi-scratch.
+**Why not turn your animation into a game?** Visit dojo.soy/sp-scratch-begin to see how it's done with the Beginner Scratch Sushi Cards, and also earn yourself a digital badge!
+
+To see this card online or print out more, go to dojo.soy/sp-sushi-scratch.
