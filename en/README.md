@@ -22,8 +22,8 @@
 
   Click on the green flag to see your animation! 
 
-### Add a background
-* In the bottom right-hand corner, you'll see the **Stage**. Click on the icon to **Choose a Backdrop** from the library. Or if you prefer, you can draw your own background by clicking on the **paintbrush** icon. 
+### Add a backdrop
+* In the bottom right-hand corner, you'll see the **Stage**. Click on the icon to **Choose a Backdrop** from the library. Or if you prefer, you can draw your own backdrop by clicking on the **paintbrush** icon. 
 
   ![](NewBackdrop.png)
 
@@ -32,11 +32,12 @@
 
   ![](ScratchDuplicate.png)
 
-* Once you've duplicated the hippo sprite, change the costumes of the new sprite. If you want you could even try drawing costumes of your own!
+* Once you've duplicated the hippo sprite, change the costumes of the new sprite. If you want to, you can even try drawing costumes of your own!
 
   ![](CostumesDrawBees.png)
 
-  Top tip: you can **duplicate** a costume too! Doing this makes it easy to create two costumes that are nearly the same. 
+  Top tip:
+  You can **duplicate** a costume too! Doing this makes it easy to create two costumes that are nearly the same. 
 
 **Why not turn your animation into a game?** Visit dojo.soy/sp-scratch-begin to see how it's done with the Beginner Scratch Sushi Cards, and also earn yourself a digital badge!
 
